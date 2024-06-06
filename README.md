@@ -1,2 +1,2 @@
 # Memory-Game
-Igra pamcenja
+Igra pamcenja - sastoji se is HTML-a, CSS-a i JS-a
